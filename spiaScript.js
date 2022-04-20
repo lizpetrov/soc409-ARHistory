@@ -5,15 +5,15 @@ window.onload = () => {
 
       navigator.geolocation.getCurrentPosition((position) => {
 
-        currentLatitude = position.coords.latitude
-        currentLongitude = position.coords.longitude
+        currentLatitude = position.coords.latitude;
+        currentLongitude = position.coords.longitude;
 
-        Console.log(currentLatitude)
-        Console.log(currentLongitude)
+        Console.log(currentLatitude);
+        Console.log(currentLongitude);
 
         let images = staticLoadImages();
-        Console.log("images"")
-        Console.log(images)
+        Console.log("images");
+        Console.log(images);
 
         renderImages(images);
 
@@ -34,8 +34,8 @@ function staticLoadImages() {
                 lng: 11.320180,
             },
             scale: '30 30 30',
-            position: '0 1 0',
-            rotation: '0 180 0',
+            position: '0 0 -1',
+            rotation: '0 0 0',
 
             height: '1',
             width: '2'
@@ -48,8 +48,7 @@ function renderImages(images) {
 
     images.forEach((image) => {
 
-      Console.log(image)
-
+      Console.log(image);
 
         let model = document.createElement('a-image');
         model.setAttribute('gps-entity-place', `latitude: ${currentLatitude}; longitude: ${currentLongitude};`);
@@ -64,8 +63,8 @@ function renderImages(images) {
         // model.setAttribute('scale', image.scale);
         model.setAttribute('position', image.position);
 
-        Console.log("model")
-        Console.log(model)
+        Console.log("model");
+        Console.log(model);
 
 
         model.addEventListener('loaded', () => {
