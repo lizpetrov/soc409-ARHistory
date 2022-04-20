@@ -8,7 +8,13 @@ window.onload = () => {
         currentLatitude = position.coords.latitude
         currentLongitude = position.coords.longitude
 
+        Console.log(currentLatitude)
+        Console.log(currentLongitude)
+
         let images = staticLoadImages();
+        Console.log("images"")
+        Console.log(images)
+
         renderImages(images);
 
         // document.querySelector('a-text').setAttribute('gps-entity-place', `latitude: ${position.coords.latitude}; longitude: ${position.coords.longitude};`)
@@ -42,6 +48,9 @@ function renderImages(images) {
 
     images.forEach((image) => {
 
+      Console.log(image)
+
+
         let model = document.createElement('a-image');
         model.setAttribute('gps-entity-place', `latitude: ${currentLatitude}; longitude: ${currentLongitude};`);
 
@@ -54,6 +63,9 @@ function renderImages(images) {
         model.setAttribute('rotation', image.rotation);
         // model.setAttribute('scale', image.scale);
         model.setAttribute('position', image.position);
+
+        Console.log("model")
+        Console.log(model)
 
 
         model.addEventListener('loaded', () => {
