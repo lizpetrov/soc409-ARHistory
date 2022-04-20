@@ -8,11 +8,13 @@ window.onload = () => {
         currentLatitude = position.coords.latitude
         currentLongitude = position.coords.longitude
 
+        let images = staticLoadImages();
+        renderImages(images);
+
         // document.querySelector('a-text').setAttribute('gps-entity-place', `latitude: ${position.coords.latitude}; longitude: ${position.coords.longitude};`)
       });
 
-     let images = staticLoadImages();
-     renderImages(images);
+
 
 };
 
@@ -20,14 +22,17 @@ function staticLoadImages() {
     return [
         {
             imageName: 'testImage',
-            src: './assets/spiaFountain.jpeg',
+            src: './assets/spiaFountain.png',
             location: {
                 lat: 44.496470,
                 lng: 11.320180,
             },
-            scale: '3 3 3',
+            scale: '30 30 30',
             position: '0 1 0',
-            rotation: '0 180 0'
+            rotation: '0 180 0',
+
+            height: '1',
+            width: '2'
         },
     ];
 }
@@ -42,8 +47,12 @@ function renderImages(images) {
 
         model.setAttribute('src', image.src);
 
+        model.setAttribute('height', image.height);
+        model.setAttribute('width', image.width);
+
+
         model.setAttribute('rotation', image.rotation);
-        model.setAttribute('scale', image.scale);
+        // model.setAttribute('scale', image.scale);
         model.setAttribute('position', image.position);
 
 
