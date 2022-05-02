@@ -86,5 +86,7 @@ To keep the code clean + not overwhelming, here is detailed process for adding n
 
 ### Future Work
 
-While writing this documentation we stumbled upon a link that says it just *might* be possible to display USDZ files on Android by converting them to glb (another 3d model file type supported by Android). Had little time or device to test this out, but a good direction to explore for making AR accessible on non-iOS devices. Update: tried it, I can't open glb files on mac but in an online viewer it comes out as non-textured blocks :(
+A key technical concern for us was having AR be accesible on both Android and iOS. We first attempted to use webAR and the associated javascript framework AR.js, but ran into problems with getting it to work anchored to a specific image or ground plane. There is no AR model creator in this case though, so all images and blurbs would need to be put in programatically. Anchoring then offers another challenge on top of this. Thus, we swayed to using Reality Composer and reproducing the content in AR on the website in 2D for non-iOS users.
+
+While writing this documentation we stumbled upon a link that says it just *might* be possible to display USDZ files on Android by converting them to glb (another 3d model file type supported by Android). Had little time or device to test this out, but a good direction to explore for making AR accessible on non-iOS devices. Update: tried it, I can't open glb files on mac but in an online viewer it comes out as non-textured blocks :( more exploration required!
 https://cwervo.com/writing/quicklook-web/ 
