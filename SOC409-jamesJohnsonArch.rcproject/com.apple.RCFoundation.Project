@@ -102,9 +102,485 @@
                         0,
                         -0.99999964237213135,
                         0,
-                        0.0026962650008499622,
+                        -0.001199688296765089,
                         0.0050000026822090149,
                         0.300586998462677,
+                        1
+                      ]
+                    }
+                  },
+                  "3D34A2A3-4425-40DB-ACE8-043D9F4809A6" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:9be445498a490fda686d54d89a484059\/johnson-goods-for-sale-2.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.59399999999999997
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "CAB7673E-2898-4D67-9494-BCD400D23248"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        -0.97973138093948364,
+                        8.4092525867163204e-06,
+                        1.6969845294952393,
+                        0,
+                        -1.6969542503356934,
+                        3.2585270673735067e-05,
+                        -0.97971421480178833,
+                        0,
+                        -3.2235275284620002e-05,
+                        -1.9594860076904297,
+                        -8.6427917267428711e-06,
+                        0,
+                        -1.4190751314163208,
+                        1.7033261060714722,
+                        -0.98656100034713745,
+                        1
+                      ]
+                    }
+                  },
+                  "5C3A6615-B562-4C01-9FF4-D664A41DF4CD" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "bgMaterial",
+                          {
+                            "typeName" : "String",
+                            "value" : "paintEnamelMatte"
+                          }
+                        ],
+                        [
+                          "boundHeight",
+                          {
+                            "typeName" : "Double",
+                            "value" : 1.5
+                          }
+                        ],
+                        [
+                          "boundWidth",
+                          {
+                            "typeName" : "Double",
+                            "value" : 17.556151151657104
+                          }
+                        ],
+                        [
+                          "depth",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.22
+                          }
+                        ],
+                        [
+                          "font",
+                          {
+                            "typeName" : "String",
+                            "value" : "Helvetica"
+                          }
+                        ],
+                        [
+                          "hasBackground",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "height",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.050000000000000003
+                          }
+                        ],
+                        [
+                          "horizontalAlignment",
+                          {
+                            "typeName" : "String",
+                            "value" : "center"
+                          }
+                        ],
+                        [
+                          "material",
+                          {
+                            "typeName" : "String",
+                            "value" : "standard"
+                          }
+                        ],
+                        [
+                          "materialColor",
+                          {
+                            "typeName" : "double4",
+                            "value" : [
+                              1,
+                              1,
+                              1,
+                              1
+                            ]
+                          }
+                        ],
+                        [
+                          "oneLine",
+                          {
+                            "typeName" : "Bool",
+                            "value" : false
+                          }
+                        ],
+                        [
+                          "precision",
+                          {
+                            "typeName" : "String",
+                            "value" : "normal"
+                          }
+                        ],
+                        [
+                          "text",
+                          {
+                            "typeName" : "String",
+                            "value" : "This arch was named in honor of James Collins Johnson in 2018. Johnson, born into slavery but later freed, was a beloved figure on campus as he spent over 60 years working on campus as a janitor and a vendor. \n\nKeep turning → to learn more about Johnson’s story."
+                          }
+                        ],
+                        [
+                          "verticalAlignment",
+                          {
+                            "typeName" : "String",
+                            "value" : "bottom"
+                          }
+                        ],
+                        [
+                          "verticalPosition",
+                          {
+                            "typeName" : "String",
+                            "value" : "middle"
+                          }
+                        ],
+                        [
+                          "wordWrap",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ]
+                      ],
+                      "children" : {
+                        "back_1" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "5D605A74-4F4D-48F9-81E0-248DD1A14A18"
+                                }
+                              ]
+                            ]
+                          }
+                        }
+                      },
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.Text",
+                        "version" : "0.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "D704A88B-0D76-4E88-8EA9-EA000186AF32"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        -1,
+                        0,
+                        -1.5099580252808664e-07,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        1.5099580252808664e-07,
+                        0,
+                        -1,
+                        0,
+                        -0.010069191455841064,
+                        1.0284187793731689,
+                        1.6488583087921143,
+                        1
+                      ]
+                    }
+                  },
+                  "66D6E9BD-72D9-4787-ADEF-7FC61D0FD9DC" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:936cc5583d4f75a84976df37002fc1d3\/johnson-1861.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.59399999999999997
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "B64CE818-455D-4321-9DED-4DD9F6D121D5"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        1.8506636619567871,
+                        1.1029720070609983e-07,
+                        -1.1030747515405892e-07,
+                        0,
+                        1.1028983237793e-07,
+                        0.00017946008301805705,
+                        1.8505473136901855,
+                        0,
+                        1.10300959477172e-07,
+                        -1.8505470752716064,
+                        0.00017946005391422659,
+                        0,
+                        0.031896509230136871,
+                        1.7857167720794678,
+                        2.0160982608795166,
+                        1
+                      ]
+                    }
+                  },
+                  "179F3ACC-7FA9-4558-B0B3-0A132634F702" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "bgMaterial",
+                          {
+                            "typeName" : "String",
+                            "value" : "paintEnamelMatte"
+                          }
+                        ],
+                        [
+                          "bgMaterialColor",
+                          {
+                            "typeName" : "double4",
+                            "value" : [
+                              0,
+                              0,
+                              0,
+                              1
+                            ]
+                          }
+                        ],
+                        [
+                          "boundHeight",
+                          {
+                            "typeName" : "Double",
+                            "value" : 1.5
+                          }
+                        ],
+                        [
+                          "boundWidth",
+                          {
+                            "typeName" : "Double",
+                            "value" : 17.556151151657104
+                          }
+                        ],
+                        [
+                          "depth",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.22
+                          }
+                        ],
+                        [
+                          "font",
+                          {
+                            "typeName" : "String",
+                            "value" : "Helvetica"
+                          }
+                        ],
+                        [
+                          "hasBackground",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "height",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.050000000000000003
+                          }
+                        ],
+                        [
+                          "horizontalAlignment",
+                          {
+                            "typeName" : "String",
+                            "value" : "center"
+                          }
+                        ],
+                        [
+                          "material",
+                          {
+                            "typeName" : "String",
+                            "value" : "standard"
+                          }
+                        ],
+                        [
+                          "materialColor",
+                          {
+                            "typeName" : "double4",
+                            "value" : [
+                              1,
+                              1,
+                              1,
+                              1
+                            ]
+                          }
+                        ],
+                        [
+                          "oneLine",
+                          {
+                            "typeName" : "Bool",
+                            "value" : false
+                          }
+                        ],
+                        [
+                          "precision",
+                          {
+                            "typeName" : "String",
+                            "value" : "normal"
+                          }
+                        ],
+                        [
+                          "text",
+                          {
+                            "typeName" : "String",
+                            "value" : "He also inspired many of Princeton’s black residents with his persistence and entrepreneurship. He was buried in the Princeton Cemetery in 1902, and his gravestone reads “James Johnson. The students friend.”"
+                          }
+                        ],
+                        [
+                          "verticalAlignment",
+                          {
+                            "typeName" : "String",
+                            "value" : "bottom"
+                          }
+                        ],
+                        [
+                          "verticalPosition",
+                          {
+                            "typeName" : "String",
+                            "value" : "middle"
+                          }
+                        ],
+                        [
+                          "wordWrap",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ]
+                      ],
+                      "children" : {
+                        "back_1" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "8510E42A-CDC5-47DB-9753-E6C6B296EEA3"
+                                }
+                              ]
+                            ]
+                          }
+                        }
+                      },
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.Text",
+                        "version" : "0.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "316B67C1-985B-4342-8092-8FF91706ADF6"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        -0.49998849630355835,
+                        0,
+                        0.8660241961479187,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        -0.8660241961479187,
+                        0,
+                        -0.49998849630355835,
+                        0,
+                        1.8170698881149292,
+                        0.89701628684997559,
+                        1.0477672815322876,
                         1
                       ]
                     }
@@ -198,7 +674,7 @@
                           "text",
                           {
                             "typeName" : "String",
-                            "value" : "Nassau Hall"
+                            "value" : "Look Up"
                           }
                         ],
                         [
@@ -239,28 +715,47 @@
                     },
                     "transform" : {
                       "matrix" : [
-                        -0.99999487400054932,
-                        5.9601752866456081e-08,
-                        -2.1061285337964364e-07,
+                        -1.0000051259994507,
+                        5.9597830670554686e-08,
+                        -2.1060961330476857e-07,
                         0,
-                        -2.1061293864477193e-07,
-                        6.2584690567746293e-06,
-                        0.99999701976776123,
+                        -2.1060746746570658e-07,
+                        7.0929295361565892e-06,
+                        0.99999672174453735,
                         0,
-                        5.9603213031778068e-08,
-                        0.99999707937240601,
-                        -6.3180737015500199e-06,
+                        5.959885385209418e-08,
+                        0.99999678134918213,
+                        -7.271743470482761e-06,
                         0,
-                        -0.021243825554847717,
+                        -0.0021890550851821899,
                         0.0024200836196541786,
                         0.0095359263941645622,
                         1
                       ]
                     }
                   },
-                  "FAEC8CDD-48A0-49A6-A9D6-3CF92E07533C" : {
+                  "5751B58C-DA62-4668-98C0-EF4781BFD8FB" : {
                     "overrides" : {
                       "arguments" : [
+                        [
+                          "bgMaterial",
+                          {
+                            "typeName" : "String",
+                            "value" : "paintEnamelMatte"
+                          }
+                        ],
+                        [
+                          "bgMaterialColor",
+                          {
+                            "typeName" : "double4",
+                            "value" : [
+                              0,
+                              0,
+                              0,
+                              1
+                            ]
+                          }
+                        ],
                         [
                           "boundHeight",
                           {
@@ -272,7 +767,7 @@
                           "boundWidth",
                           {
                             "typeName" : "Double",
-                            "value" : 6
+                            "value" : 8.8148101170857753
                           }
                         ],
                         [
@@ -293,14 +788,14 @@
                           "hasBackground",
                           {
                             "typeName" : "Bool",
-                            "value" : false
+                            "value" : true
                           }
                         ],
                         [
                           "height",
                           {
                             "typeName" : "Double",
-                            "value" : 0.029999999999999999
+                            "value" : 0.14999999999999999
                           }
                         ],
                         [
@@ -347,7 +842,7 @@
                           "text",
                           {
                             "typeName" : "String",
-                            "value" : "ALIGNMENT"
+                            "value" : "James Johnson"
                           }
                         ],
                         [
@@ -372,6 +867,22 @@
                           }
                         ]
                       ],
+                      "children" : {
+                        "back_1" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "D3E6C214-BA85-4545-99C9-182F9CEE455E"
+                                }
+                              ]
+                            ]
+                          }
+                        }
+                      },
                       "factory" : {
                         "identifier" : "com.apple.rc.af.CoreAssetFactories.Text",
                         "version" : "0.0"
@@ -381,32 +892,1010 @@
                           "RuntimeIdentifier",
                           {
                             "typeName" : "UUID",
-                            "value" : "95367D4A-E357-4D9E-8834-A14BBC9AE4D0"
+                            "value" : "00CA7EC2-4851-48A0-8905-5A3132DAB9A3"
                           }
                         ]
                       ]
                     },
                     "transform" : {
                       "matrix" : [
-                        -0.99999618530273438,
-                        5.960392002180015e-08,
-                        -2.106075811525443e-07,
+                        -1,
                         0,
-                        -2.1060766641767259e-07,
-                        4.5895476432633586e-06,
-                        0.99999785423278809,
+                        -1.5099580252808664e-07,
                         0,
-                        5.9605000046758505e-08,
-                        0.99999791383743286,
-                        -4.6491527427861001e-06,
                         0,
-                        -0.00098172889556735754,
-                        0.0024197045713663101,
-                        -0.066888637840747833,
+                        1,
+                        0,
+                        0,
+                        1.5099580252808664e-07,
+                        0,
+                        -1,
+                        0,
+                        0.017646372318267822,
+                        2.44779372215271,
+                        1.6513584852218628,
                         1
                       ]
                     }
-                  }
+                  },
+                  "7387D034-15E9-446A-A1D9-90FD1B148E67" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "bgMaterial",
+                          {
+                            "typeName" : "String",
+                            "value" : "paintEnamelMatte"
+                          }
+                        ],
+                        [
+                          "bgMaterialColor",
+                          {
+                            "typeName" : "double4",
+                            "value" : [
+                              0,
+                              0,
+                              0,
+                              1
+                            ]
+                          }
+                        ],
+                        [
+                          "boundHeight",
+                          {
+                            "typeName" : "Double",
+                            "value" : 1.5
+                          }
+                        ],
+                        [
+                          "boundWidth",
+                          {
+                            "typeName" : "Double",
+                            "value" : 17.556151151657104
+                          }
+                        ],
+                        [
+                          "depth",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.22
+                          }
+                        ],
+                        [
+                          "font",
+                          {
+                            "typeName" : "String",
+                            "value" : "Helvetica"
+                          }
+                        ],
+                        [
+                          "hasBackground",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "height",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.050000000000000003
+                          }
+                        ],
+                        [
+                          "horizontalAlignment",
+                          {
+                            "typeName" : "String",
+                            "value" : "center"
+                          }
+                        ],
+                        [
+                          "material",
+                          {
+                            "typeName" : "String",
+                            "value" : "standard"
+                          }
+                        ],
+                        [
+                          "materialColor",
+                          {
+                            "typeName" : "double4",
+                            "value" : [
+                              1,
+                              1,
+                              1,
+                              1
+                            ]
+                          }
+                        ],
+                        [
+                          "oneLine",
+                          {
+                            "typeName" : "Bool",
+                            "value" : false
+                          }
+                        ],
+                        [
+                          "precision",
+                          {
+                            "typeName" : "String",
+                            "value" : "normal"
+                          }
+                        ],
+                        [
+                          "text",
+                          {
+                            "typeName" : "String",
+                            "value" : "Johnson began his first few years at Princeton as a janitor, often working in harsh conditions. He was put on trial after a student revealed to his former master, but eventually won freedom. After emancipation, he became known for selling snacks to students from a wheelbarrow. His constant presence on campus led him to become somewhat of a college mascot."
+                          }
+                        ],
+                        [
+                          "verticalAlignment",
+                          {
+                            "typeName" : "String",
+                            "value" : "bottom"
+                          }
+                        ],
+                        [
+                          "verticalPosition",
+                          {
+                            "typeName" : "String",
+                            "value" : "middle"
+                          }
+                        ],
+                        [
+                          "wordWrap",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ]
+                      ],
+                      "children" : {
+                        "back_1" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "B105D9A9-8626-478C-A57D-803AB379E7DD"
+                                }
+                              ]
+                            ]
+                          }
+                        }
+                      },
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.Text",
+                        "version" : "0.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "EE14A5CF-77AE-4205-A852-78001C731B53"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50000029802322388,
+                        0,
+                        -0.86602401733398438,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0.86602401733398438,
+                        0,
+                        0.50000029802322388,
+                        0,
+                        -1.3017444610595703,
+                        1.0284180641174316,
+                        -0.96191847324371338,
+                        1
+                      ]
+                    }
+                  },
+                  "7444C8E7-8386-45E6-A187-7C26441F9070" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:443c9346a49e8ba0189d3452d47bf4c4\/unsung-hero-prev.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.59399999999999997
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "C5A42D87-18AA-4EB6-9AB1-6B8E03E16B59"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        1.3086844682693481,
+                        -2.5350569558213465e-05,
+                        2.2666337490081787,
+                        0,
+                        -2.2666192054748535,
+                        3.4632557799341157e-05,
+                        1.3086761236190796,
+                        0,
+                        -4.2744999518617988e-05,
+                        -2.6173069477081299,
+                        -4.3681020542862825e-06,
+                        0,
+                        1.8097488880157471,
+                        1.5188905000686646,
+                        -0.40818393230438232,
+                        1
+                      ]
+                    }
+                  },
+                  "45888621-09AA-48C4-80BF-A1E25DF7D2A4" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:c3f5a6b916dcd701ece95f4212517788\/johnson-jimmy-stink.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.59399999999999997
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "E085C2AC-9B9F-4C8C-B06A-B0D18EC92981"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.85337710380554199,
+                        3.5147855669492856e-05,
+                        1.4780911207199097,
+                        0,
+                        -1.4780653715133667,
+                        4.1098366637015715e-05,
+                        0.85336214303970337,
+                        0,
+                        -1.7954860595637001e-05,
+                        -1.7067000865936279,
+                        5.1067083404632285e-05,
+                        0,
+                        -1.5571694374084473,
+                        1.7215478420257568,
+                        0.79224056005477905,
+                        1
+                      ]
+                    }
+                  },
+                  "A47190DC-3B5A-4DDE-A1A3-5E56C266F026" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "bgMaterial",
+                          {
+                            "typeName" : "String",
+                            "value" : "paintEnamelMatte"
+                          }
+                        ],
+                        [
+                          "bgMaterialColor",
+                          {
+                            "typeName" : "double4",
+                            "value" : [
+                              0,
+                              0,
+                              0,
+                              1
+                            ]
+                          }
+                        ],
+                        [
+                          "boundHeight",
+                          {
+                            "typeName" : "Double",
+                            "value" : 1.5
+                          }
+                        ],
+                        [
+                          "boundWidth",
+                          {
+                            "typeName" : "Double",
+                            "value" : 19.264795780181885
+                          }
+                        ],
+                        [
+                          "depth",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.22
+                          }
+                        ],
+                        [
+                          "font",
+                          {
+                            "typeName" : "String",
+                            "value" : "Helvetica"
+                          }
+                        ],
+                        [
+                          "hasBackground",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "height",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.050000000000000003
+                          }
+                        ],
+                        [
+                          "horizontalAlignment",
+                          {
+                            "typeName" : "String",
+                            "value" : "center"
+                          }
+                        ],
+                        [
+                          "material",
+                          {
+                            "typeName" : "String",
+                            "value" : "standard"
+                          }
+                        ],
+                        [
+                          "materialColor",
+                          {
+                            "typeName" : "double4",
+                            "value" : [
+                              1,
+                              1,
+                              1,
+                              1
+                            ]
+                          }
+                        ],
+                        [
+                          "oneLine",
+                          {
+                            "typeName" : "Bool",
+                            "value" : false
+                          }
+                        ],
+                        [
+                          "precision",
+                          {
+                            "typeName" : "String",
+                            "value" : "normal"
+                          }
+                        ],
+                        [
+                          "text",
+                          {
+                            "typeName" : "String",
+                            "value" : "In 1843, Philip and Severn Teackle Wallis filed their case against Johnson under the Fugitive Slave Act of 1793. There are conflicting accounts as to the name of the student who revealed Johnson’s whereabouts to them. However, a woman named Theodosia Prevost paid around $500 (a value of over $10,000 today) to purchase his freedom. "
+                          }
+                        ],
+                        [
+                          "verticalAlignment",
+                          {
+                            "typeName" : "String",
+                            "value" : "bottom"
+                          }
+                        ],
+                        [
+                          "verticalPosition",
+                          {
+                            "typeName" : "String",
+                            "value" : "middle"
+                          }
+                        ],
+                        [
+                          "wordWrap",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ]
+                      ],
+                      "children" : {
+                        "back_1" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "2D019782-2B8B-4926-BB12-BC8BE0655681"
+                                }
+                              ]
+                            ]
+                          }
+                        }
+                      },
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.Text",
+                        "version" : "0.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "ECCA842A-2644-4EF1-B39B-1B1A10C08E73"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.99999892711639404,
+                        0,
+                        9.470869599681464e-07,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        -9.470869599681464e-07,
+                        0,
+                        0.99999892711639404,
+                        0,
+                        -0.042061805725097656,
+                        0.92638224363327026,
+                        -1.812591552734375,
+                        1
+                      ]
+                    }
+                  },
+                  "B36CC197-7553-4507-9B59-84F3ED01263D" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "bgMaterial",
+                          {
+                            "typeName" : "String",
+                            "value" : "paintEnamelMatte"
+                          }
+                        ],
+                        [
+                          "bgMaterialColor",
+                          {
+                            "typeName" : "double4",
+                            "value" : [
+                              0,
+                              0,
+                              0,
+                              1
+                            ]
+                          }
+                        ],
+                        [
+                          "boundHeight",
+                          {
+                            "typeName" : "Double",
+                            "value" : 1.5
+                          }
+                        ],
+                        [
+                          "boundWidth",
+                          {
+                            "typeName" : "Double",
+                            "value" : 14.144737720489502
+                          }
+                        ],
+                        [
+                          "depth",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.22
+                          }
+                        ],
+                        [
+                          "font",
+                          {
+                            "typeName" : "String",
+                            "value" : "Helvetica"
+                          }
+                        ],
+                        [
+                          "hasBackground",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "height",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.050000000000000003
+                          }
+                        ],
+                        [
+                          "horizontalAlignment",
+                          {
+                            "typeName" : "String",
+                            "value" : "center"
+                          }
+                        ],
+                        [
+                          "material",
+                          {
+                            "typeName" : "String",
+                            "value" : "standard"
+                          }
+                        ],
+                        [
+                          "materialColor",
+                          {
+                            "typeName" : "double4",
+                            "value" : [
+                              1,
+                              1,
+                              1,
+                              1
+                            ]
+                          }
+                        ],
+                        [
+                          "oneLine",
+                          {
+                            "typeName" : "Bool",
+                            "value" : false
+                          }
+                        ],
+                        [
+                          "precision",
+                          {
+                            "typeName" : "String",
+                            "value" : "normal"
+                          }
+                        ],
+                        [
+                          "text",
+                          {
+                            "typeName" : "String",
+                            "value" : "Johnson’s story from fugitive slave to a revered and vital part of Princeton’s campus and town resonated with people for 60 years and beyond. Black and white students and local residents alike were moved by his journey and life. He left an impression on many white students, with at least half a dozen going on to write about Johnson in fiction and nonfiction works, such as this poem from 1890. "
+                          }
+                        ],
+                        [
+                          "verticalAlignment",
+                          {
+                            "typeName" : "String",
+                            "value" : "bottom"
+                          }
+                        ],
+                        [
+                          "verticalPosition",
+                          {
+                            "typeName" : "String",
+                            "value" : "middle"
+                          }
+                        ],
+                        [
+                          "wordWrap",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ]
+                      ],
+                      "children" : {
+                        "back_1" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "6C62F1CE-F2B6-4614-92EE-73B4BAD6FB07"
+                                }
+                              ]
+                            ]
+                          }
+                        }
+                      },
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.Text",
+                        "version" : "0.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "6F9E6ABE-E054-4C8C-B1F6-4FC1CA9E4B22"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50000464916229248,
+                        0,
+                        0.86601626873016357,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        -0.86601626873016357,
+                        0,
+                        0.50000464916229248,
+                        0,
+                        1.2639219760894775,
+                        1.7178888320922852,
+                        -1.1255629062652588,
+                        1
+                      ]
+                    }
+                  },
+                  "C49721C5-1C2F-4DE6-BF21-DF2693B87BFD" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "bgMaterial",
+                          {
+                            "typeName" : "String",
+                            "value" : "paintEnamelMatte"
+                          }
+                        ],
+                        [
+                          "bgMaterialColor",
+                          {
+                            "typeName" : "double4",
+                            "value" : [
+                              0,
+                              0,
+                              0,
+                              1
+                            ]
+                          }
+                        ],
+                        [
+                          "boundHeight",
+                          {
+                            "typeName" : "Double",
+                            "value" : 1.5
+                          }
+                        ],
+                        [
+                          "boundWidth",
+                          {
+                            "typeName" : "Double",
+                            "value" : 17.556151151657104
+                          }
+                        ],
+                        [
+                          "depth",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.22
+                          }
+                        ],
+                        [
+                          "font",
+                          {
+                            "typeName" : "String",
+                            "value" : "Helvetica"
+                          }
+                        ],
+                        [
+                          "hasBackground",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "height",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.050000000000000003
+                          }
+                        ],
+                        [
+                          "horizontalAlignment",
+                          {
+                            "typeName" : "String",
+                            "value" : "center"
+                          }
+                        ],
+                        [
+                          "material",
+                          {
+                            "typeName" : "String",
+                            "value" : "standard"
+                          }
+                        ],
+                        [
+                          "materialColor",
+                          {
+                            "typeName" : "double4",
+                            "value" : [
+                              1,
+                              1,
+                              1,
+                              1
+                            ]
+                          }
+                        ],
+                        [
+                          "oneLine",
+                          {
+                            "typeName" : "Bool",
+                            "value" : false
+                          }
+                        ],
+                        [
+                          "precision",
+                          {
+                            "typeName" : "String",
+                            "value" : "normal"
+                          }
+                        ],
+                        [
+                          "text",
+                          {
+                            "typeName" : "String",
+                            "value" : "James Johnson was born enslaved on October 2, 1816 in Maryland. He was one of many slaves in the Wallis household, an extremely wealthy and prominent family. According to Johnson’s accounts, he escaped in August, 1839, after his master gave him five dollars for an errand."
+                          }
+                        ],
+                        [
+                          "verticalAlignment",
+                          {
+                            "typeName" : "String",
+                            "value" : "bottom"
+                          }
+                        ],
+                        [
+                          "verticalPosition",
+                          {
+                            "typeName" : "String",
+                            "value" : "middle"
+                          }
+                        ],
+                        [
+                          "wordWrap",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ]
+                      ],
+                      "children" : {
+                        "back_1" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "0994DD8A-06A6-43BB-91F9-563C206E4EA2"
+                                }
+                              ]
+                            ]
+                          }
+                        }
+                      },
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.Text",
+                        "version" : "0.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "6DA164C9-B418-43D8-AF1B-8DE70E694141"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        -0.49999949336051941,
+                        0,
+                        -0.86602485179901123,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0.86602485179901123,
+                        0,
+                        -0.49999949336051941,
+                        0,
+                        -1.3820123672485352,
+                        1.0356965065002441,
+                        0.67623037099838257,
+                        1
+                      ]
+                    }
+                  },
+                  "DB783268-85AB-4F1C-956F-5FDF6FA1EDD8" : null,
+                  "E6C9A263-31CA-4828-919A-D5BF9FF66593" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:32457609622f0a624f8c23913680ce73\/jamesjohnsongravestone.jpeg"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.59399999999999997
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "9B83D02E-23B3-482B-A700-55EE970F1053"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        -1.0147511959075928,
+                        6.0484433106466895e-07,
+                        1.7576217651367188,
+                        0,
+                        -1.757609486579895,
+                        -2.0564561054925434e-05,
+                        -1.0147440433502197,
+                        0,
+                        1.7540274711791426e-05,
+                        -2.029496431350708,
+                        1.0887067219300661e-05,
+                        0,
+                        1.9731265306472778,
+                        1.4134224653244019,
+                        1.1330997943878174,
+                        1
+                      ]
+                    }
+                  },
+                  "E73BAAF9-A17A-4EE1-85AC-0893EC2175F2" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:e74231d8fb8cce3015054dca8efd0a72\/johnson-cannon-green.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.59399999999999997
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "8118BFB3-90E6-48D7-BD60-FD955C94A503"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        2.7027533054351807,
+                        1.6108597833408567e-07,
+                        -1.6109584066725802e-07,
+                        0,
+                        1.6107867395476205e-07,
+                        0.00017317154561169446,
+                        2.7026386260986328,
+                        0,
+                        1.6108928946323431e-07,
+                        -2.7026355266571045,
+                        0.00017317135643679649,
+                        0,
+                        -0.008251287043094635,
+                        1.7244950532913208,
+                        -1.949378490447998,
+                        1
+                      ]
+                    }
+                  },
+                  "FAEC8CDD-48A0-49A6-A9D6-3CF92E07533C" : null
                 },
                 "factory" : null,
                 "runtimeAttributes" : [
@@ -423,21 +1912,21 @@
               "title" : "Scene",
               "viewTransform" : {
                 "cameraTransform" : [
-                  -0.99982607364654541,
-                  1.2436371932267321e-08,
-                  0.018647221848368645,
+                  -0.99991524219512939,
+                  1.8932007606053958e-07,
+                  0.013021037913858891,
                   0,
-                  0.016310764476656914,
-                  0.48466083407402039,
-                  0.87455004453659058,
+                  0.0082101654261350632,
+                  0.77618217468261719,
+                  0.63045525550842285,
                   0,
-                  -0.0090375673025846481,
-                  0.87470215559005737,
-                  -0.48457667231559753,
+                  -0.01010673213750124,
+                  0.63050872087478638,
+                  -0.77611631155014038,
                   0,
-                  -0.61290872097015381,
-                  2.9756157398223877,
-                  -1.1997363567352295,
+                  -0.64380413293838501,
+                  5.6942405700683594,
+                  -4.6858901977539062,
                   1
                 ],
                 "sceneTransform" : [
