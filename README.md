@@ -83,6 +83,10 @@ To keep the code clean + not overwhelming, here is detailed process for adding n
 8. Using the above link, generate a QR code here for the poster: https://www.qr-code-generator.com
 
 
+### Figma Mockups
+
+Our ideation and mockups of how we would want the app to look one day can be found here:
+https://www.figma.com/file/AWdin3YPYkskBGJxni6qdf/Visualizing-History?node-id=0%3A1
 
 ### Future Work
 
